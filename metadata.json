@@ -1,0 +1,6 @@
+{
+  "name": "SPORTS INFO TV",
+  "description": "Ultra-fast, native Android IPTV Player built on Jetpack Compose and Media3 ExoPlayer with flexible header customisation and local playlist caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

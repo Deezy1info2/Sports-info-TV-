@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "darkMode": {
+      "enabled": true
+    },
+
+    "followUs": {
+      "whatsapp": {
+        "enabled": true,
+        "title": "WhatsApp",
+        "url": "https://whatsapp.com/channel/0029VbDEpbo002TAzgBEyH2H"
+      },
+      "telegram": {
+        "enabled": true,
+        "title": "Telegram",
+        "url": "https://t.me/sports_info2"
+      }
+    },
+
+    "menu": [
+      {
+        "id": "share",
+        "icon": "share",
+        "title": "Share App",
+        "enabled": true
+      },
+      {
+        "id": "rate",
+        "icon": "star",
+        "title": "Rate Us",
+        "enabled": true,
+        "url": "https://drive.google.com/file/d/11NqtNbbjmCHzVaWVmHudfzcIoE_iEAJ5/view?usp=drivesdk"
+      },
+      {
+        "id": "feedback",
+        "icon": "feedback",
+        "title": "Feedback",
+        "enabled": true,
+        "email": "deezy1info@gmail.com"
+      },
+      {
+        "id": "about",
+        "icon": "info",
+        "title": "About",
+        "enabled": true,
+        "content": "Version 1.0.0"
+      },
+      {
+        "id": "privacy",
+        "icon": "privacy",
+        "title": "Privacy Policy",
+        "enabled": true,
+        "url": "https://yourdomain.com/privacy"
+      },
+      {
+        "id": "terms",
+        "icon": "description",
+        "title": "Terms of Service",
+        "enabled": true,
+        "url": "https://yourdomain.com/terms"
+      }
+    ]
+  }
+}
